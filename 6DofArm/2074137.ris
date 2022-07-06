@@ -1,0 +1,18 @@
+TY - JOUR
+TI - Inverse Kinematics of a 7R 6-DOF Robot with Nonspherical Wrist Based on Transformation into the 6R Robot
+VL - 2017
+PY - 2017
+DA - 2017/05/18
+DO - 10.1155/2017/2074137
+UR - https://doi.org/10.1155/2017/2074137
+AB - The 7R 6-DOF robots with hollow nonspherical wrist have been proven more suitable for spray painting applications. However, the inverse kinematics of this kind of robot is still imperfect due to the coupling between position and orientation of the end-effector (EE). In this paper, a new and efficient algorithm for the inverse kinematics of a 7R 6-DOF robot is proposed. The proposed inverse kinematics algorithm is a two-step method. The geometry of the 7R 6-DOF robot is analyzed. A comparison between the 7R 6-DOF robot and the well-known equivalent 6R robot is made. Based on this comparison, a rational transformation between these two kinds of robots is constructed. Then the general inverse kinematics algorithm of the equivalent 6R robot is applied to calculate the approximate solutions of the 7R 6-DOF robot, in the first step. The Damped Least-Squares (DLS) method is employed to derive the exact solutions, in the second step. The accuracy and efficiency of the algorithm are tested on a 7R 6-DOF painting robot. The results show that the proposed algorithm is more advantageous in the case without an approximate solution, such as the initial point of a continuous trajectory.
+JF - Mathematical Problems in Engineering
+SN - 1024-123X
+PB - Hindawi
+SP - 2074137
+KW - 
+A2 - Reinoso, Oscar
+AU - Wang, Xuhao
+AU - Zhang, Dawei
+AU - Zhao, Chen
+ER - 
